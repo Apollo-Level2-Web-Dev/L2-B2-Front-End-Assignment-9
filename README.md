@@ -12,7 +12,7 @@
 
 | The last Digit of PH Student ID | Assignment Number (Design No) |
 | --- | --- |
-| 0, 1 | https://www.notion.so/Assignment-06-Frontend-Path-1-4b1e03a91f984173ade33e25ca29f765?pvs=21 |
+| 0, 1 | [Path-1](Assignment-09-Frontend-Path-1.md) |
 | 2, 3 | https://www.notion.so/Assignment-06-Frontend-Path-2-2f92c9ad1d034a44a85667463d5848bd?pvs=21 |
 | 4, 5 | https://www.notion.so/Assignment-06-Frontend-Path-3-b486d32f02d34fefb5be81cc216819a2?pvs=21 |
 | 6, 7 | https://www.notion.so/Assignment-06-Frontend-Path-4-56651841a7e2493d80e71a1efa43792b?pvs=21 |
